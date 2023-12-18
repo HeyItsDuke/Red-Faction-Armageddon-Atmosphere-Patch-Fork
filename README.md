@@ -3,7 +3,7 @@
 - Date: X-X-XXXX
 - Build: XXXX
 - Work-in-progress project that adds content, fixes bugs, and enhances many features. 
-- NOTE: This project is currently on hold while I focus on modding RF:G.
+- NOTE: This project is a rebuild and reboot of the Improvement Patch project. I am now the lead developer.
 
 This patch is still in development and is not officially released. It is not advised to install this patch for a regular playthrough until development is finished. Please back up your "player_options.rfao_pc" file and any desired save files prior to installation. 
 
@@ -28,5 +28,5 @@ https://www.redfactionwiki.com/wiki/Red_Faction_Armageddon_FAQ
 - Add comments so vanilla values are noted.
 
 # Credits
-- [HeyItsDuke](https://github.com/HeyItsDuke) for research, testing, QA, and help!
+- [Camo](https://github.com/CamoRF) for leading the development of the original Improvement Patch Of which this patch is based on. And being awesome!
 - [MartianMadman](https://github.com/MartianMadman) for research on engine limitations and bugs!

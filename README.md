@@ -28,5 +28,5 @@ https://www.redfactionwiki.com/wiki/Red_Faction_Armageddon_FAQ
 - Add comments so vanilla values are noted.
 
 # Credits
-- [Camo](https://github.com/CamoRF) for leading the development of the original Improvement Patch Of which this patch is based on. And being awesome!
+- [Camo](https://github.com/CamoRF) for leading the development of the original Improvement Patch of which this patch is based on. And being awesome!
 - [MartianMadman](https://github.com/MartianMadman) for research on engine limitations and bugs!
